@@ -1,4 +1,6 @@
-# caculatoe
+# caculator - vue
+
+![screenshot](screenshot.png)
 
 ## Project setup
 ```
